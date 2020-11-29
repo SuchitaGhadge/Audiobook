@@ -2,7 +2,7 @@ import pyttsx3
 import PyPDF2
 import os
 
-path = 'Books/Benjamin Graham on Investing.pdf'
+path = 'your_path'
 
 
 book = open(path, 'rb')
